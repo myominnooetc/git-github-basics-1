@@ -1,6 +1,6 @@
 # My first GitHub repo 
 
-I created this repo for the first time. Below are some exerpts from [What Is GitHub? A Beginner’s Introduction to GitHub](https://kinsta.com/knowledgebase/what-is-github/) by Kinsta.
+[Your Name] created this repo for the first time. Below are some exerpts from [What Is GitHub? A Beginner’s Introduction to GitHub](https://kinsta.com/knowledgebase/what-is-github/) by Kinsta.
 
 ## What is GitHub? 
 
