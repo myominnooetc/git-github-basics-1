@@ -8,4 +8,3 @@ At a high level, GitHub is a website and cloud-based service that helps develope
 
 - Version control
 - Git
-
